@@ -1,0 +1,23 @@
+body{
+  background-color:tan;
+}
+hr{
+  height:20%;
+  border-style:inset;
+}
+
+h1{
+
+  color:red;
+}
+
+h3{
+  color:red;
+}
+
+img{
+  height:50%;
+  width:50%;
+  border-style: groove;
+  border-color: tan;
+}
